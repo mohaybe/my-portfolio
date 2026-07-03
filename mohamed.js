@@ -14,7 +14,7 @@ const typingElement = document.getElementById("typing");
 const words = [
   "AWS Data Center Technician",
   "Cybersecurity Student",
-  "Aspiring Web Developer",
+  "Web Developer",
   "Problem Solver"
 ];
 
